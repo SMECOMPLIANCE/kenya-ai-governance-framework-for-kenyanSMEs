@@ -42,7 +42,7 @@ Project AIDA (Artificial Intelligence Data Assurance) provides a practical, free
 
 ## How to Use This Framework
 
-1. **Read the White Paper:**[View Project AIDA White Paper](https://smecompliance.github.io/kenya-ai-governance-framework-for-SME/WhitePaper_ProjectAIDA.pdf
+1. **Read the White Paper:**[View Project AIDA White Paper](https://smecompliance.github.io/kenya-ai-governance-framework-for-kenyanSMEs/WhitePaper_ProjectAIDA.pdf
 )
  Understand the legal landscape, compliance risks, and the rationale behind the governance framework.
 2. **Customize the Templates:** Use the provided Privacy Policy, DPIA form, RoPA spreadsheet, and AI Risk Checklist to assess and document your AI-related data processing activities.
